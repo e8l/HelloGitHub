@@ -44,6 +44,7 @@ This is a practice.
 *****test6*
 
 *********test7*******
+
 ---
 
 > level 1
@@ -56,3 +57,17 @@ This is a practice.
 > > > > > > > > level 8
 > > > > > > > > > level 9
 > > > > > > > > > > level 10
+
+---
+
+* list
+ * list
+* list
+  * list
+    * list
+* list
+   * list
+     * list
+* list
+    * list
+      * list

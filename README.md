@@ -108,3 +108,11 @@ and this?
 > hoge
 > > hoge
 > hoge
+
+----
+
+```ruby
+require "hoge"
+
+puts Foo::BAR
+```
